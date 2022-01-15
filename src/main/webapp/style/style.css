@@ -1,0 +1,28 @@
+fieldset{
+    background-color: beige;
+    border: 5px blue dashed;
+    border-radius: 15px 20px;
+    width: 350px;
+    margin: auto;
+}
+
+legend{
+    text-align: center;
+    font-family: arial;
+    font-size: 12px;
+    color: blueviolet;
+}
+
+tr td:first-child{
+    color: darkorange;
+    font-family: arial;
+    font-size: 14px;
+}
+
+tr td:last-child{
+    color: red;
+}
+
+input{
+    border-radius: 5px;
+}
