@@ -2,7 +2,8 @@
 A basic machine management system implemented with AJAX, JSP and Servlet
 
 
-Screenshots
+#Screenshots
+
 --Authentication page--
 ![image](https://user-images.githubusercontent.com/71185753/154821294-a8d6e679-9afa-4cf8-9b25-07018bedf0d1.png)
 --Statistics--
